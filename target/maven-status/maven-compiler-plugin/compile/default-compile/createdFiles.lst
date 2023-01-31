@@ -1,0 +1,7 @@
+br\com\persitence\impl\PessoaImpl.class
+br\com\persitence\PessoaInterface.class
+br\com\conection\HibernateConection.class
+br\com\conection\HibernateUtil.class
+br\com\controller\PessoaController.class
+br\com\application\RestApplication.class
+br\com\model\Pessoa.class
